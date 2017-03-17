@@ -1,0 +1,25 @@
+h1{
+  background-color: lightpink;
+}
+
+
+h3{
+  background-color: lightpink;
+}
+body{
+  font-family: monospace;
+  text-align: center;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 30px;
+}
+
+div{background-color: lightblue;
+
+}
+button:hover {
+    background-color: #00b3db;
+}
+button {
+    background-color: lightblue;
+}
